@@ -17,7 +17,7 @@
 
 ---
 
-#Conventional Commits
+# Conventional Commits
 
 Conventional Commits предлагает такой формат коммита: <type>: <сообщение>. 
 Первая часть type — это тип изменений. Таких типов достаточно много. Вот два примера:
